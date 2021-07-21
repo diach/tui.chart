@@ -29,30 +29,22 @@ const data = {
   categories: ['Browser'],
   series: [
     {
-      name: 'Chrome',
+      name: 'Completed',
       data: 46.02,
     },
     {
-      name: 'IE',
+      name: 'In Process',
       data: 20.47,
     },
     {
-      name: 'Firefox',
+      name: 'Not Started',
       data: 17.71,
     },
     {
-      name: 'Safari',
+      name: 'Judging',
       data: 5.45,
     },
-    {
-      name: 'Opera',
-      data: 3.1,
-    },
-    {
-      name: 'Etc',
-      data: 7.25,
-    }
-  ]
+   ]
 }
 ```
 
